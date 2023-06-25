@@ -1,0 +1,74 @@
+
+Bulk Up
+fighting,0,false,status,false,1,1.5,1.5,1,1,1
+
+Shadow Ball
+ghost,80,false,special,false,1,1,1,1,0.66,1
+
+Sludge Wave
+poison,95,false,special,false,1,1,1,1,1,1
+
+Icy Wind
+ice,55,false,special,false,1,1,1,1,1,0.66
+
+Thunderbolt
+electric,90,false,special,false,1,1,1,1,1,1
+
+Wood Hammer
+grass,120,false,physical,false,0.66,1,1,1,1,1
+
+Protect
+normal,0,true,status,false,1,1,1,1,1,1
+
+Synthesis
+grass,0,false,status,false,0.5,1,1,1,1,1
+
+Psychic
+psychic,90,false,special,false,1,1,1,1,0.66,1
+
+Moonblast
+fairy,95,false,special,false,1,1,1,0.66,1,1
+
+Calm Mind
+psychic,0,false,status,false,1,1,1,1.5,1.5,1
+
+Healing Wish
+normal,0,false,status,false,0.5,1,1,1,1,1
+
+Dynamic Punch
+fighting,100,false,physical,false,1,1,1,1,1,1
+
+Dual Chop
+dragon,80,false,physical,false,1,1,1,1,1,1
+
+Bullet Punch
+steel,40,true,physical,false,1,1,1,1,1,1
+
+Earthquake
+ground,100,false,physical,false,1,1,1,1,1,1
+
+Ice Beam
+ice,90,false,special,false,1,1,1,1,1,1
+
+Gunk Shot
+poison,120,false,physical,false,1,1,1,1,1,1
+
+U-Turn
+bug,70,false,physical,true,1,1,1,1,1,1
+
+Swords Dance
+normal,0,false,status,false,1,2,1,1,1,1
+
+Flare Blitz
+fire,120,false,physical,false,0.66,1,1,1,1,1
+
+Close Combat
+fighting,120,false,physical,false,1,1,0.66,1,0.66,1
+
+Stone Edge
+rock,100,false,physical,false,1,1,1,1,1,1
+
+Dark Pulse
+dark,80,false,special,false,1,1,1,1,1,1
+
+
