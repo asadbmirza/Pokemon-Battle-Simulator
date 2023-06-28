@@ -1,4 +1,5 @@
 ﻿//READ BEFORE PLAYING THE GAME
+ 
 //NOTE: CERTAIN MOVES ARE NOT GAME ACCURATE(e.g healing wish heals in one turn, no pp, etc)
 
 **STEP 1, START THE GAME:**
