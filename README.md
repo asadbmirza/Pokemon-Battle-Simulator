@@ -8,10 +8,14 @@
  
  **STEP 2, OTHER BATTLE MECHANICS:**
  5. Both the CPU and the player will send out the first pokemon they have picked
+ 
  6. You as the player have the option to type 1, 2, 3, 4, m, v or s
- 7. If you type m, you can display your moves stats and typing, this will not count as using your turn.
- 8. If you type v, you can view your pokemons typing and stats, this will not count as using your turn.
- 9. If you type s, you are able to switch to your other 2 pokemon, type 2 for the second pokemon and 3 for the third pokemon, this will count as your turn.
+ 7. 
+ 8. If you type m, you can display your moves stats and typing, this will not count as using your turn.
+ 9. 
+ 10. If you type v, you can view your pokemons typing and stats, this will not count as using your turn.
+ 11. 
+ 12. If you type s, you are able to switch to your other 2 pokemon, type 2 for the second pokemon and 3 for the third pokemon, this will count as your turn.
  
  **STEP 3, USING MOVES: 
 8. If you type 1, 2, 3 or 4 it will select a move to use against the opponent.**
