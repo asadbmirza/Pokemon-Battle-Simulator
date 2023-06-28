@@ -19,7 +19,7 @@
      
  9. If you type s, you are able to switch to your other 2 pokemon, type 2 for the second pokemon and 3 for the third pokemon, this will count as your turn.
  
- **STEP 3, USING MOVES: 
+ **STEP 3, USING MOVES:** 
  
 10. If you type 1, 2, 3 or 4 it will select a move to use against the opponent.**
 
