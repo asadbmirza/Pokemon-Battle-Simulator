@@ -8,6 +8,7 @@
  4. The program will then give the three remaining pokemon to the CPU
  
  **STEP 2, OTHER BATTLE MECHANICS:**
+ 
  5. Both the CPU and the player will send out the first pokemon they have picked
  
  6. You as the player have the option to type 1, 2, 3, 4, m, v or s
@@ -19,6 +20,7 @@
  9. If you type s, you are able to switch to your other 2 pokemon, type 2 for the second pokemon and 3 for the third pokemon, this will count as your turn.
  
  **STEP 3, USING MOVES: 
+ 
 10. If you type 1, 2, 3 or 4 it will select a move to use against the opponent.**
 
 11. **Each move is different and has their own typing, power, can reduce stats, and attack category(physical, special and status)**
@@ -44,6 +46,7 @@
 21. Certain moves have "priority" which means regardless of speed, the user will go first that turn
 
 **STEP 4, BATTLE:**
+
 22. You battle a cpu who's move are random, who moves first in the turn is decided by this:
 
 23. If the user switches that is the guaranteed first move however the pokemon being switched in cannot attack and must take the opponents attack.
