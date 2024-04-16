@@ -1,6 +1,9 @@
 ﻿//READ BEFORE PLAYING THE GAME
- //Ensure that Java is installed on your console and that all java files are present in the same folder you wish to play in.
+ 
+//Ensure that Java is installed on your console and that all java files are present in the same folder you wish to play in.
+ 
 //To play the game, run main.java
+
 //NOTE: CERTAIN MOVES ARE NOT GAME ACCURATE(e.g healing wish heals in one turn, no pp, etc)
 
 **STEP 1, START THE GAME:**
