@@ -1,6 +1,6 @@
 ﻿//READ BEFORE PLAYING THE GAME
  
-//Ensure that Java is installed on your console and that all java files are present in the same folder you wish to play in.
+//Ensure that Java is installed on your console and that all files are present in the same folder you wish to play in.
  
 //To play the game, run main.java
 
