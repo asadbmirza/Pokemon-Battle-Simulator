@@ -2,7 +2,7 @@
  
 //Ensure that Java is installed on your console and that all files are present in the same folder you wish to play in.
  
-//To play the game, run thr command Java Main while being in the Game's directory as it is played on the command line.
+//To play the game, run the command Java Main while being in the Game's directory as it is played on the command line.
 
 //NOTE: CERTAIN MOVES ARE NOT GAME ACCURATE(e.g healing wish heals in one turn, no pp, etc)
 
