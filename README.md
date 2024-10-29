@@ -1,9 +1,10 @@
 ﻿//READ BEFORE PLAYING THE GAME
  
-//Ensure that Java is installed on your console and that all files are present in the same folder you wish to play in.
+//First Ensure that Java is installed on your console
 
 //Run the command
 ```bash
+cd Pokemon-Battle-Simulator/src
 Java Main
 ```
 
