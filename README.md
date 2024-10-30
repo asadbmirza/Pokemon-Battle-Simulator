@@ -1,10 +1,11 @@
 ﻿//READ BEFORE PLAYING THE GAME
  
-//First Ensure that Java is installed on your console
+//First Ensure that Java is installed on your local machine
 
-//Run the command
+//Clone the repo to your local machine
 ```bash
 cd Pokemon-Battle-Simulator/src
+Javac Main.java
 Java Main
 ```
 
