@@ -1,3 +1,6 @@
+<img width="1191" height="665" alt="image" src="https://github.com/user-attachments/assets/d0a0cf41-8db1-4229-9073-5e2b5fbbd3ab" />
+
+
 ﻿//READ BEFORE PLAYING THE GAME
  
 //First Ensure that Java is installed on your local machine
